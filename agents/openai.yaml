@@ -1,0 +1,4 @@
+interface:
+  display_name: "Taobao4Work"
+  short_description: "查询本人淘宝订单与物流，为采购、开票和本地 Excel 账簿提供扩展规范"
+  default_prompt: "使用 $taobao4work 查询我的淘宝订单，按商品、日期、金额和物流状态整理结果。"
