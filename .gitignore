@@ -1,0 +1,13 @@
+.playwright-cli/
+node_modules/
+.env
+.env.*
+*.log
+*.har
+*.trace
+*.png
+*.jpg
+*.pdf
+*.ofd
+*.xlsx
+*.xls
